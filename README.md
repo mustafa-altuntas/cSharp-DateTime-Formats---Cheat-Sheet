@@ -1,5 +1,6 @@
 # cSharp-DateTime-Formats---Cheat-Sheet
 
+```c#
 using System;
 using System.Globalization; 
 
@@ -52,3 +53,4 @@ public class Program {
    */
    }
 }
+```
