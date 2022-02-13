@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>cSharp_DateTime_Formats___Cheat_Sheet</RootNamespace>
+  </PropertyGroup>
+
+</Project>
